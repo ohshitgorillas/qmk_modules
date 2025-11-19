@@ -17,7 +17,7 @@ Obviously, you need a keyboard with a speaker for this to work.
     **Option A: Git Submodule (Recommended)**
     ```bash
     cd <qmk directory>
-    git submodule add https://github.com/ohshitgorillas/qmk-badkeys.git modules/ohshitgorillas/badkeys
+    git submodule add https://github.com/ohshitgorillas/qmk_modules.git modules/ohshitgorillas
     ```
 
     **Option B: Manual Download**
