@@ -1,0 +1,6 @@
+[submodule "spongemock"]
+	path = spongemock
+	url = https://github.com/ohshitgorillas/qmk-spongemock.git
+[submodule "xcase"]
+	path = xcase
+	url = https://github.com/ohshitgorillas/qmk-xcase.git
